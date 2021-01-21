@@ -769,7 +769,7 @@
 	<type name="NBCJacketGray">
 	</type>
 	<!--START OF ZOMBIES  -->
-	<!-- -----------------------------ARMY----------------------------- -->
+	<!-------------------------------ARMY------------------------------->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
